@@ -42,8 +42,9 @@
 
 .banner__button:hover{
     color: #000;
+    transition: all 0.5s;
     background-color: #fff;
-    transition: all 0.2s;
+/*     transition: all 0.2s; */
 }
 
 .banner--fadeBottom{
